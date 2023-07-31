@@ -1,0 +1,42 @@
+// Class A - Parent
+class A {
+    String userName;
+    String password;
+
+    // Constructor
+    A(String userName, String password) {
+        this.userName = userName;
+        this.password = password;
+    }
+
+    // Method to validate username and password
+    boolean validate(String userName, String password) {
+        return this.userName.equals(userName) && this.password.equals(password);
+    }
+}
+
+// Class B - Child
+class B extends A {
+    // Constructor calling parent's constructor
+    B(String userName, String password) {
+        super(userName, password);
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        // Create an instance of class B
+        B childObj = new B("user123", "password123");
+
+        // Test validation
+        String inputUserName = "user123";
+        String inputPassword = "password123";
+
+        boolean isValid = childObj.validate(inputUserName, inputPassword);
+        if (isValid) {
+            System.out.println("True");
+        } else {
+            System.out.println("False");
+        }
+    }
+}
