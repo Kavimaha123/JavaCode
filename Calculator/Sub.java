@@ -9,6 +9,5 @@ public class Sub implements CalculatorInterface {
         } else {
             System.out.println("Sub two numbers" + (a - b));
         }
-
     }
 }

@@ -7,5 +7,4 @@ public class Add implements CalculatorInterface {
 
         System.out.println("Adding two numbers" + (a+b));
     }
-
 }

@@ -8,7 +8,6 @@ public class Calculator{
         div.Calculate(5, 0);
         add.Calculate(10, 5);
         sub.Calculate(10, 25);
-        mul.Calculate(0, 5);
-        
+        mul.Calculate(0, 5);  
     }
 }
