@@ -1,0 +1,126 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
+            "name": "ArrayEqual",
+            "request": "launch",
+            "mainClass": "ArrayEqual",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
+            "name": "ListOfFloat",
+            "request": "launch",
+            "mainClass": "ArrayList.ListOfFloat",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
+            "name": "ListOfInt",
+            "request": "launch",
+            "mainClass": "ArrayList.ListOfInt",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
+            "name": "ListOfString",
+            "request": "launch",
+            "mainClass": "ArrayList.ListOfString",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
+            "name": "ArrayMax",
+            "request": "launch",
+            "mainClass": "ArrayMax.ArrayMax",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator.Calculator",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
+            "name": "ClassAndObject",
+            "request": "launch",
+            "mainClass": "ClassAndObject.ClassAndObject",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
+            "name": "ForLoopArraylist",
+            "request": "launch",
+            "mainClass": "Forloop.ForLoopArraylist",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
+            "name": "Forloop",
+            "request": "launch",
+            "mainClass": "Forloop.Forloop",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
+            "name": "ForloopHashMap",
+            "request": "launch",
+            "mainClass": "Forloop.ForloopHashMap",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
+            "name": "ForloopHashSet",
+            "request": "launch",
+            "mainClass": "Forloop.ForloopHashSet",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
+            "name": "B",
+            "request": "launch",
+            "mainClass": "Inheritence.B",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
+            "name": "Binary",
+            "request": "launch",
+            "mainClass": "JavaBinary.Binary",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
+            "name": "Number",
+            "request": "launch",
+            "mainClass": "JavaBinary.Number",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
+            "name": "ReplaceStr",
+            "request": "launch",
+            "mainClass": "String.ReplaceStr",
+            "projectName": "JavaCode_c6287ca7"
+        }
+    ]
+}

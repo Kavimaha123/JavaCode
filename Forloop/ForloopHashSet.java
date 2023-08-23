@@ -11,16 +11,17 @@ public class ForloopHashSet{
     set.add("Kavi");
     set.add("Vijay");
     set.add("Ajay");
-    TreeSet<String> treeSet = new TreeSet<String>(set);
-    for(String ts :treeSet){
-         System.out.println(ts);
+    set.add("Ajay");
+//     TreeSet<String> treeSet = new TreeSet<String>(set);
+//     for(String ts :treeSet){
+//          System.out.println(ts);
+//     }
+    
+    
+    Iterator<String> iterator=set.iterator();
+    while(iterator.hasNext()){
+        System.out.println(iterator.next());
     }
-    
-    
-    // Iterator<String> iterator=set.iterator();
-    // while(iterator.hasNext()){
-    //     System.out.println(iterator.next());
-    // }
     }
 
     }
