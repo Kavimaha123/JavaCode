@@ -5,6 +5,7 @@ public class A{
 
     int IntValue(){
         return intValue;
+        
     }
 
     public int getIntValue() {
