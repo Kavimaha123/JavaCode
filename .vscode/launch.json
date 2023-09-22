@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Javaloop",
+            "request": "launch",
+            "mainClass": "HackerRankprogram.Javaloop",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
+            "name": "IndexString",
+            "request": "launch",
+            "mainClass": "IndexString",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
+            "name": "CountStr",
+            "request": "launch",
+            "mainClass": "UST.CountStr",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
+            "name": "Rs",
+            "request": "launch",
+            "mainClass": "UST.Rs",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
+            "name": "AbstractClass",
+            "request": "launch",
+            "mainClass": "AbstractClass",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
+            "name": "EnhancesForLoop",
+            "request": "launch",
+            "mainClass": "EnhancesForLoop",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
+            "name": "Dog",
+            "request": "launch",
+            "mainClass": "Dog",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
+            "name": "DuplicateArray",
+            "request": "launch",
+            "mainClass": "DuplicateArray",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
+            "name": "IndexValue",
+            "request": "launch",
+            "mainClass": "IndexValue",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "Sorting.BubbleSort",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "SelectionSort",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "Sorting.SelectionSort",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
