@@ -3,7 +3,7 @@ package HackerRankprogram;
 import java.util.Scanner;
 
 public class Javaloop {
-    public static void main(String args[]){
+    public static void main(StringNum args[]){
         Scanner scanner=new Scanner(System.in);
         int sum=0;
         
