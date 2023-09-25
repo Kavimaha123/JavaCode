@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "HackerRankprogram.Solution",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
+            "name": "Linkedlist",
+            "request": "launch",
+            "mainClass": "Generic.Linkedlist",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
+            "name": "Day",
+            "request": "launch",
+            "mainClass": "Day",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
+            "name": "Generic",
+            "request": "launch",
+            "mainClass": "Generic.Generic",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
+            "name": "Math",
+            "request": "launch",
+            "mainClass": "Math.Math",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
+            "name": "Methodifelse",
+            "request": "launch",
+            "mainClass": "Method.Methodifelse",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
+            "name": "JavaMethod",
+            "request": "launch",
+            "mainClass": "Method.JavaMethod",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
             "name": "Javaloop",
             "request": "launch",
             "mainClass": "HackerRankprogram.Javaloop",
