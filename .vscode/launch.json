@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Billing",
+            "request": "launch",
+            "mainClass": "Billing.Billing",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
+            "name": "Datetime",
+            "request": "launch",
+            "mainClass": "DateTime.Datetime",
+            "projectName": "JavaCode_c6287ca7"
+        },
+        {
+            "type": "java",
             "name": "Solution",
             "request": "launch",
             "mainClass": "HackerRankprogram.Solution",
